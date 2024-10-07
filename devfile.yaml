@@ -10,3 +10,5 @@ components:
          value: 0.0.0.0
        - name: KUBEDOCK_ENABLED
          value: "true"
+       - name: CONTAINER_HOST
+         value: 'tcp://127.0.0.1:2475'
